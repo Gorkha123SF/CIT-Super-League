@@ -1,0 +1,15 @@
+* {
+    margin: 5px;
+    padding: 5px;
+    box-shadow: border-box;
+}
+img{
+    height: 150px;
+}
+table {
+    width: 85;
+    margin: 1rem auto;
+}
+nav{
+    text-align: center;
+}
